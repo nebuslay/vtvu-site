@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Home on Viet Tu Vu</title>
+    <link>https://www.vtvu.au/</link>
+    <description>Recent content in Home on Viet Tu Vu</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.vtvu.au/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact</title>
+      <link>https://www.vtvu.au/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.vtvu.au/contact/</guid>
+      <description>&lt;p&gt;If you have any enquiries about my page, my work or want to utilise my skills you can reach out to me via email:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;mailto:hello@vtvu.au&#34;&gt;hello@vtvu.au&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;figure&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;https://www.vtvu.au/assets/sydneyharbour.avif&#34;
+         alt=&#34;Nice view of Sydney Harbour, I guess&#34;/&gt; 
+&lt;/figure&gt;</description>
+    </item>
+    <item>
+      <title>Portfolio</title>
+      <link>https://www.vtvu.au/portfolio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.vtvu.au/portfolio/</guid>
+      <description>&lt;h3 id=&#34;my-work-journey-so-far&#34;&gt;My Work Journey so far&lt;/h3&gt;
+&lt;p&gt;10 years of I.T Support experience&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Skills&lt;/th&gt;
+          &lt;th&gt;Proficiency&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Windows&lt;/td&gt;
+          &lt;td&gt;⭐⭐⭐⭐⭐&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Microsoft 365&lt;/td&gt;
+          &lt;td&gt;⭐⭐⭐⭐⭐&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;MDM/EMM/UEM&lt;/td&gt;
+          &lt;td&gt;⭐⭐⭐⭐⭐&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Mac/Linux&lt;/td&gt;
+          &lt;td&gt;⭐⭐⭐&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;iOS/Android&lt;/td&gt;
+          &lt;td&gt;⭐⭐⭐⭐⭐&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Server&lt;/td&gt;
+          &lt;td&gt;⭐⭐&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Certifications&lt;/th&gt;
+          &lt;th&gt;Vendor&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Azure Administrator Associate (AZ-104)&lt;/td&gt;
+          &lt;td&gt;Microsoft&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Endpoint Administrator Associate (MD-102)&lt;/td&gt;
+          &lt;td&gt;Microsoft&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Android Enterprise Expert&lt;/td&gt;
+          &lt;td&gt;Google&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</description>
+    </item>
+    <item>
+      <title>Projects</title>
+      <link>https://www.vtvu.au/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.vtvu.au/projects/</guid>
+      <description>&lt;h3 id=&#34;my-homelab&#34;&gt;My Homelab&lt;/h3&gt;
+&lt;p&gt;My homelab has grown to include a dedicated firewall/router running OPNsense, a managed switch, a Wi-Fi 6 access point, a TrueNAS server and a secondary server.&lt;/p&gt;
+&lt;p&gt;Blog post &amp;amp; network diagram in the works&lt;/p&gt;
+&lt;h3 id=&#34;my-website&#34;&gt;My Website&lt;/h3&gt;
+&lt;p&gt;This website was created using markdown, compiled with Hugo and deployed using my homelab.&lt;/p&gt;
+&lt;p&gt;I set out to utilise free and open source tools to achieve a simple and elegant solution and learn a few things along the way.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Welcome to my Blog</title>
+      <link>https://www.vtvu.au/blog-main/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.vtvu.au/blog-main/</guid>
+      <description>&lt;p&gt;I like to write about my experiences in tech, the internet and the world around me.&lt;/p&gt;
+&lt;p&gt;Soon™&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
